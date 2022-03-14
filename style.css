@@ -1,0 +1,96 @@
+.footer {
+	max-width: 70%;
+	margin: 1rem auto;
+	overflow: auto;
+}
+
+.footer,
+.footer a {
+	color: #999;
+	font-size: 0.9rem;
+}
+
+.footer p {
+	margin-bottom: 1.5rem;
+}
+
+.footer .footer-cols {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	grid-gap: 2rem;
+}
+
+.footer li {
+	line-height: 1.9;
+}
+
+.footer .lang-select {
+	margin-top: 2rem;
+	color: #999;
+	background-color: #000;
+	background-image: none;
+	border: 1px solid #333;
+	padding: 1rem 1.2rem;
+	border-radius: 5px;
+}
+
+.container-footer{
+    background-color: 01416C;
+    padding: 50;
+}
+
+.col-sm-footer{
+    color: white;
+    margin: 30;
+}
+
+.form-inline{
+    padding-right: 50;
+}
+
+.navbar-brand{
+    padding-left: 50;
+}
+
+.nav-link{
+    padding: 20;
+}
+
+.text-besar{
+    color: 01416C;
+	font-size: 50;
+}
+
+.col-sm{
+    padding: 40;
+    background-color: EEFAFE;
+}
+
+.nav-item-dropdown-indo{
+    padding-left: 350;
+}
+
+.btn-primary{
+	background-color: 01416C;
+	padding-right: 30;
+	padding-left: 30;
+	padding-top: 10;
+	padding-bottom: 10;
+}
+
+.btn-primary2{
+	margin-right: 10;
+	padding-right: 12;
+	padding-left: 12;
+	background-color: 01416C;
+	color: white;
+}
+
+.mitra{
+	color: black;
+	font-size: 15;
+}
+
+.text-sedengan{
+	font-size: 17;
+}
